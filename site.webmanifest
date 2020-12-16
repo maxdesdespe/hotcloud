@@ -1,0 +1,19 @@
+{
+    "name": "HotClouds",
+    "short_name": "Blog",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-dL9GyHA3y0s/X9qIsLrmwtI/AAAAAAAAEOA/ju1oDFZxtTU7niSS5iLmmZtH_O6uNDFwwCLcBGAsYHQ/s0/icon1.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-DwRdGaEGt6o/X9qIsKoT5cI/AAAAAAAAEN8/DR7q4Hq4GtkAMxc-5RrjnMaGfFaja9StQCLcBGAsYHQ/s0/icon2.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
